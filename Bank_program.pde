@@ -6,7 +6,6 @@ Knap fjernB = new Knap(380, 120, 140, 50);
 int konto1 = 0;
 int konto2 = 0;
 
-PImage img = 
 
 
 void setup() {
